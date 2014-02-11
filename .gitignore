@@ -1,5 +1,6 @@
 *Trace*
 *.backup
+*.spfx
 
 #################
 ## Eclipse
